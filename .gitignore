@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+build
+dist
+SimpleHTTPFileServer.egg-info
+update.bat

@@ -7,7 +7,7 @@ This module builds on BaseHTTPServer by implementing the standard GET and HEAD r
 ## Install
 
 ```
-python setup.py install
+sudo python setup.py install
 ```
 
 

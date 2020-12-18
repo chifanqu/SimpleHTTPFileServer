@@ -26,7 +26,7 @@ Serving HTTP on 0.0.0.0:8000
 
 ## Upload
 
-Upload file with command
+Upload file with one line command
 
 ```
 curl -T xxx.txt 127.0.0.1:8000
